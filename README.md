@@ -30,4 +30,4 @@ deactivate
 ### 12cbQLTFMXRnSzktFkuoG3eHoMeFtpTu3S 
 usado por Satoshi para a primeira transação Bitcoin entre usuários para Hal Finney.
 ### 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa
-usado por Satoshi para receber os primeiros 50btc já minerados, marcando o nascimento da blockchain do bitcoin
+usado por Satoshi para receber os primeiros 50btc já minerados, marcando o nascimento da blockchain do bitcoin.
