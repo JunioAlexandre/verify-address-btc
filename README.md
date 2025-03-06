@@ -12,7 +12,7 @@ Abra o terminal e navegue até a pasta onde foi clonado
 cd /home/junio/Documents/VSCODE/verificar-endereco-btc
 ```
 
-Ative o ambiente virtual
+Ative o ambiente virtual att
 ```bash
 source venv/bin/activate
 ```
