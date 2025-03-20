@@ -11,11 +11,6 @@ Abra o terminal e navegue até a pasta onde foi clonado
 ```bash
 cd /home/junio/Documents/VSCODE/verificar-endereco-btc
 ```
-
-Ative o ambiente virtual (att exclusion)
-```bash
-source venv/bin/activate
-```
 Rode o codigo 
 ```bash
 python verify-adress-btc.py
