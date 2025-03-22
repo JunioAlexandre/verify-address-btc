@@ -16,10 +16,6 @@ Rode o codigo
 python verify-adress-btc.py
 ```
 
-Saia do ambiente virtual
-```bash
-deactivate
-```
 
 ## Endereço de Satoshi Nakamoto para utilizar como teste:
 ### 12cbQLTFMXRnSzktFkuoG3eHoMeFtpTu3S 
