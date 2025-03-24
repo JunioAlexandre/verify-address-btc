@@ -16,7 +16,6 @@ Rode o codigo
 python verify-adress-btc.py
 ```
 
-
 ## Endereço de Satoshi Nakamoto para utilizar como teste:
 ### 12cbQLTFMXRnSzktFkuoG3eHoMeFtpTu3S 
 usado por Satoshi para a primeira transação Bitcoin entre usuários para Hal Finney.
